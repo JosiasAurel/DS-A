@@ -1,0 +1,6 @@
+*.exe
+node_modules
+__pycache__
+.cache
+build
+dist
